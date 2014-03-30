@@ -6,7 +6,7 @@
 - [Tempescope](http://tempescope.com/)をHackして、「写真から思い出を再現する」をテーマに作成しました。
 
 - Web側のAPIのプロトタイプは以下にデプロイされています  
-[Only Yesterday API](http://only-yesterday.herokuapp.com/)
+[Only Yesterday API](http://only-yesterday.herokuapp.com/)  
 [サーバ側ソースコード](https://github.com/shimpeiws/only_yesterday)
 
 - mbedのソースコードも公開予定です。
