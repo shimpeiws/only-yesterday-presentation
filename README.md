@@ -7,5 +7,6 @@
 
 - Web側のAPIのプロトタイプは以下にデプロイされています  
 [Only Yesterday API](http://only-yesterday.herokuapp.com/)
+[サーバ側ソースコード](https://github.com/shimpeiws/only_yesterday)
 
 - mbedのソースコードも公開予定です。
