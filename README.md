@@ -4,12 +4,11 @@
 
 [発表スライド](http://shimpeiws.github.io/only-yesterday-presentation/)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/xx6VkH1HMAw" frameborder="0" allowfullscreen></iframe>  
+[ムービー(YouTube)](http://www.youtube.com/watch?v=T-D1KVIuvjA)  
+[![ムービー(YouTube)](http://img.youtube.com/vi/xx6VkH1HMAw/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
 (音声はミュートモードになっています)
 
 - [Tempescope](http://tempescope.com/)をHackして、「写真から思い出を再現する」をテーマに作成しました。
-
-![img](https://pbs.twimg.com/media/Bj-TTaQCEAA332W.jpg)
 
 - ハードウェアの制御はmbedで行っています。  
 [Only Yesterday 制御プログラム](http://mbed.org/users/jksoft/code/OnlyYesterday/) by Junichi Katsu
