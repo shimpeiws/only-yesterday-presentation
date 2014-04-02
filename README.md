@@ -4,6 +4,9 @@
 
 [発表スライド](http://shimpeiws.github.io/only-yesterday-presentation/)
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/xx6VkH1HMAw" frameborder="0" allowfullscreen></iframe>  
+(音声はミュートモードになっています)
+
 - [Tempescope](http://tempescope.com/)をHackして、「写真から思い出を再現する」をテーマに作成しました。
 
 ![img](https://pbs.twimg.com/media/Bj-TTaQCEAA332W.jpg)
