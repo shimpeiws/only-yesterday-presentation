@@ -8,7 +8,7 @@
 
 ![img](https://pbs.twimg.com/media/Bj-TTaQCEAA332W.jpg)
 
-- ハードウェアの制御はmbedで行っています。
+- ハードウェアの制御はmbedで行っています。  
 [Only Yesterday 制御プログラム](http://mbed.org/users/jksoft/code/OnlyYesterday/) by Junichi Katsu
 
 - Web側のAPIのプロトタイプです。  
