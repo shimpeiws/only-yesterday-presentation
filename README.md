@@ -8,8 +8,9 @@
 
 ![img](https://pbs.twimg.com/media/Bj-TTaQCEAA332W.jpg)
 
-- Web側のAPIのプロトタイプは以下にデプロイされています  
+- ハードウェアの制御はmbedで行っています。
+[Only Yesterday 制御プログラム](http://mbed.org/users/jksoft/code/OnlyYesterday/) by Junichi Katsu
+
+- Web側のAPIのプロトタイプです。
 [Only Yesterday API](http://only-yesterday.herokuapp.com/)  
 [サーバ側ソースコード](https://github.com/shimpeiws/only_yesterday)
-
-- mbedのソースコードも公開予定です。
