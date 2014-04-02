@@ -11,6 +11,6 @@
 - ハードウェアの制御はmbedで行っています。
 [Only Yesterday 制御プログラム](http://mbed.org/users/jksoft/code/OnlyYesterday/) by Junichi Katsu
 
-- Web側のAPIのプロトタイプです。
+- Web側のAPIのプロトタイプです。  
 [Only Yesterday API](http://only-yesterday.herokuapp.com/)  
 [サーバ側ソースコード](https://github.com/shimpeiws/only_yesterday)
