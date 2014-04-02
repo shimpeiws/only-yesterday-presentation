@@ -6,7 +6,7 @@
 
 [ムービー(YouTube)](http://www.youtube.com/watch?v=T-D1KVIuvjA)  
 [![ムービー(YouTube)](http://img.youtube.com/vi/xx6VkH1HMAw/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)  
-(音声はミュートモードになっています)
+(音声はミュートモードになっています)  
 
 - [Tempescope](http://tempescope.com/)をHackして、「写真から思い出を再現する」をテーマに作成しました。
 
